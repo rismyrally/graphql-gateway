@@ -1,0 +1,17 @@
+{
+  "name": "graphql-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/gateway": "^2.8.2",
+    "@apollo/server": "^4.10.4",
+    "graphql": "^16.9.0"
+  }
+}
